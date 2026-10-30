@@ -1,0 +1,22 @@
+{
+  "name": "zenless-zone-zero-agent-toolkit",
+  "displayName": "Zenless Zone Zero Agent Toolkit",
+  "programType": "agent-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Agent profiles",
+    "Equipment notes",
+    "Activity planning"
+  ],
+  "topics": [
+    "zenless-zone-zero-agent-toolkit",
+    "zenless-zone-zero-tools",
+    "zenless-zone-zero-menu",
+    "zenless-zone-zero-settings",
+    "zenless-zone-zero-configs",
+    "zenless-zone-zero-agent-profiles",
+    "zenless-zone-zero-equipment-notes"
+  ]
+}
