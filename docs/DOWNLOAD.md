@@ -1,5 +1,5 @@
 # Zenless Zone Zero Agent Toolkit — download
 
-[Download page](https://meteoric-rook-835.github.io/)
+[Download page](https://brown-yak-652.github.io/)
 
 Open the project's download page and use the installation instructions supplied with the application package. Release-specific requirements and package details belong with the distributed application.

