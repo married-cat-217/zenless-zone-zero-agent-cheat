@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 Zenless Zone Zero Agent Toolkit · Program documentation and download information.
-                                                                                                    
